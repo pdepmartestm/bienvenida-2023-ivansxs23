@@ -6,7 +6,7 @@ Hola, me llamo Daniel Ivan Converso, prefiero que me digan Ivan, tengo 20 años 
 -Me gusta también jugar a la play, tengo la 4 y ahora estoy jugando mucho al Call of Duty BO3.  
 Creo que esto es lo principal acerca de mi. 
 Les dejo una foto mia 
-![fotoivipdp](https://user-images.githubusercontent.com/112661283/228975437-8a3e0c42-659c-4c8c-8e4a-f1b397292c9c.jpg) 
+![fotoivipdp](https://user-images.githubusercontent.com/112661283/228976468-0151b17d-b377-4bed-b3a0-f9f07fbf32b8.jpg) 
  y una de mi gata 
 ![fototitapdp](https://user-images.githubusercontent.com/112661283/228975452-140d4266-ed81-44e7-a30d-be31fe4c570e.jpg)  
 Saludos!!
