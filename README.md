@@ -9,5 +9,5 @@ Creo que esto es lo principal acerca de mi.
 Les dejo una foto mia 
 <img src="fotoivipdp.jpg" width=20%>
 y una de mi gata 
-<img src="fototitapdp" width=20%>
+<img src="fototitapdp.jpg" width=20%>
 Saludos!!
